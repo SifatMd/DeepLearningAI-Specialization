@@ -7,6 +7,5 @@ Completed Course:
  - Course 2 - Improving Deep Neural Networks
  - Course 3 - Structuring Machine Learning Projects
  - Course 4 - Convolutional Neural Networks
- 
-Remaining Courses: 
  - Course 5 - Sequence Models
+
