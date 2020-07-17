@@ -9,3 +9,6 @@ Completed Course:
  - Course 4 - Convolutional Neural Networks
  - Course 5 - Sequence Models
 
+---
+
+![Deep Learning Specialization Certificate](Certificate.png)
